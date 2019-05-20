@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Pet Shop",
+        "description": "Give your pets away!",
+        "icon": {
+            "item": "minecraft:bone"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:sp_sp",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    
+    }
+}
