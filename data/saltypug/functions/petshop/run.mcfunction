@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:player_head"}}] run execute at @s run function saltypug:petshop/main
